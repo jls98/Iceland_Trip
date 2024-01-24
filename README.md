@@ -134,3 +134,4 @@ TODO
 * [Camping in the Myvatn area](https://www.vogartravelservice.com/camping)
 * https://www.reykjavikcampsite.is/tourdesk-2/
 * https://www.re.is/tour/landmannalaugar-iceland-on-your-own/
+* [FI Mountain Huts](https://www.fi.is/en/mountain-huts/map-of-mountain-huts)
