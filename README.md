@@ -72,11 +72,18 @@ Package the food either in a box or bag and label with your name and phone numbe
 ### Preferred - Alternative Food Drops
 1. Myvatn -- 5 day carry from Northern Terminus to Myvatn, resupply in the grocery store in town
 2. Dreki hut -- 3 day carry from Myvatn to Dreki have bus driver take your package. Call the hut and ask them to remove the package from the bus and hold -- [Myvatn Tours](https://myvatntours.is/)
-3. Landmannalaugar -- 7 day carry from Dreki to Landannalaugar have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold
+3. Landmannalaugar -- 7 day carry from Dreki to Landannalaugar have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold -- [Reyjkavik Excursions](https://www.re.is/highland-bus/)
 
 # Itinerary
 - Section 1: Hraunhafnartangi to Asbyrgi (2.5 days)
+  - Northern Lighthouse to Asbyrgi Canyon.
+  - This is remote and has a road walk
+  - Asbyrgi campground is available and paid for, or pass by for a wild camp
+  - N1 Gas station near Asbygri, can get some small resupply and hot food there. May be expensive
+  - No huts
 - Section 2: Asbyrgi to Lake Myvatn (2.5 days)
+  - Passes by Dettifoss and Selfoss waterfalls.
+  - No huts
 - Section 3: Myvatn to Dreki (Askja)(3 days)
   - Passes by 2 huts [Botni](https://www.fi.is/en/mountain-huts/all-mountain-huts/botni) and [Dyngjufell](https://www.fi.is/en/mountain-huts/all-mountain-huts/dyngjufell)
   - These are primitive huts that can just be used for shelter and cooking
