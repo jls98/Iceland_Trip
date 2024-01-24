@@ -111,11 +111,17 @@ Reservations are not needed for these campgrounds. Some campgrounds could be ski
 * SubTotal: $101.07
 * Lodging Tax: 6x300ISK 1800 ISK = $13.19
 * Total $114.26
- 
-## Food Drops
-* Reykjavik Excursions Baggage Service 2000 ISK - $14.64
 
-## Groceries
+## Food
+### Food Drops
+Note: There may be an additional fee from the hut to hold these packages
+* Reykjavik Excursions Baggage Service 2000 ISK - $14.64
+* Myvatn Tours -- TODO Contact the company to see if a box can be sent from Reykjahlíð to Dreki hut
+
+### Groceries
+TODO
+
+### Dining
 TODO
 
 ## Total
