@@ -85,7 +85,7 @@ Total: 20 days
 ## Transport
 ### Airfare
 * Round trip from DFW to Reykjavík ~ $1000
-* Round trip from Frankfurt to Reykjavík ~ $300
+* Round trip from Frankfurt to Reykjavík ~ $400
 
 ### Bus Travel
 * Local bus in Reykjavík: 630 ISK -- $4.67 (Optional if needed)
@@ -121,7 +121,7 @@ TODO
 ## Total
 ### Rough Estimate minus the cost of Groceries
 * Dan - $1340.29 + (10 days lodging x $25 + $21.98 tax) = $1612.27
-* Jia - $640.29 + (10 days lodging x $25 + $21.98 tax) = $912.27
+* Jia - $640.29 + (10 days lodging x $25 + $21.98 tax) = $1012.27
 
 # References
 * https://lukaszsupergan.com/crossing-iceland-traverse-east-west-food-supplies-deposits/
