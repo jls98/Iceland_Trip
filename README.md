@@ -39,7 +39,7 @@ Between Askja and Kistufell Hut is dry, about 1 day of water carry.
 5. Visit grocery story and purchase 3 weeks worth of food.
 6. Organize food into 1 food drops for 4 days. Food in backpack for 5 days
 7. Visit Reykjavik Excursions and pay for one package to be shipped to Landmannalaugar
-8. Check the weather https://en.vedur.is/
+8. Check the [weather](https://en.vedur.is/) and [road conditions](https://www.road.is/)
 
 ## Getting to the Northern Terminus
 [Public Straeto Bus Service](https://straeto.is/)
