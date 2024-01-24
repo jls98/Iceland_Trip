@@ -100,7 +100,7 @@ Total: 20 days
 Optional, Camping is a cheaper option which is available in all locations. Reykjavik camping is just $25 a night and includes showers, cooking area etc. Lodging tax at campsites is 300 ISK and 600 ISK for hostels.
 
 ### Camping
-Reservations are not needed for these campgrounds. Some campgrounds could be skipped an opt instead for a wild camp. This may be difficult to do in the Landmannalaugar area. There is a 300 ISK lodging tax.
+Reservations are not needed for these campgrounds. Some campgrounds could be skipped an opt instead for a wild camp (Vogar and Dreki). This is not advised in the Landmannalaugar area as its protected lands. There is a 300 ISK lodging tax.
 * Reykjahlíð Vogar Campground - 2250 ISK - $16.48
 * Landmannalaugar Campground - 2500 ISK - $18.31
 * Hvanngil Campground 2800 ISK - $20.51
