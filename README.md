@@ -78,6 +78,9 @@ Package the food either in a box or bag and label with your name and phone numbe
 - Section 1: Hraunhafnartangi to Asbyrgi (2.5 days)
 - Section 2: Asbyrgi to Lake Myvatn (2.5 days)
 - Section 3: Myvatn to Dreki (Askja)(3 days)
+  - Passes by 2 huts [Botni](https://www.fi.is/en/mountain-huts/all-mountain-huts/botni) and [Dyngjufell](https://www.fi.is/en/mountain-huts/all-mountain-huts/dyngjufell)
+  - These are primitive huts that can just be used for shelter and cooking
+  - Follows part of the [Askja Trail](https://www.fi.is/en/hiking-trails/trails/oskjuvegur)
 - Section 4: Dreki to Landmannalaugar (7 days)
   - This is a remote section, has a long water carry
   - Follows F-roads for some of it
