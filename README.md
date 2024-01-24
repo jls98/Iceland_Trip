@@ -85,6 +85,13 @@ Total: 20 days
 	4. #51 bus from Vík to Reykjavík  (570 x 14 zones) 7.980 ISK -- $59.19
 	Total: $211.39
 ## Hostels
+## Camping
+Reservations are not needed for these campgrounds
+* Reykjahlíð Vogar Campground - 2250 ISK - $16.48
+* Landmannalaugar Campground - 2500 ISK - $18.31
+* Hvanngil Campground 2800 ISK - $20.51
+* Thorsmork Langidalur Campground 2800 ISK - $20.51
+* Skogar Campground 1500 ISK - $10.98
 ## Groceries
 
 ## Food Drops
@@ -98,3 +105,5 @@ Total: 20 days
 * http://www.deadbad.com/blog/index.php?thingindex=15&submenu=tripovervie
 * https://www.youtube.com/watch?v=ON3oMFzdlzU
 * https://straeto.is/media/2023/10/prices-single-fare-north-and-northeast-iceland-okt.pdf
+* [Camping in the Landmannalaugar area](https://www.fi.is/en/mountain-huts/terms-and-conditions)
+* [Camping in the Myvatn area](https://www.vogartravelservice.com/camping)
