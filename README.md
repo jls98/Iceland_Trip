@@ -78,20 +78,23 @@ Total: 20 days
 * Round trip from DFW to Reykjavík ~ $1000
 * Round trip from Frankfurt to Reykjavík ~ $300
 ### Bus Travel
-	0.  Local bus in Reykjavík: 630 ISK -- $4.67 (Optional if needed)
-	1. #55 bus Airport to Reykjavík : 2280 ISK -- $16.91 X2
-	2. #57 bus Reykjavík to Akureyri 12.540 ISK (570 x 22 zones) -- $93.01
-	3. #79 bus from Akureyri to Húsavík  (570 X 6 zones) 3.420 ISK -- $25.37
-	4. #51 bus from Vík to Reykjavík  (570 x 14 zones) 7.980 ISK -- $59.19
-	Total: $211.39
+* Local bus in Reykjavík: 630 ISK -- $4.67 (Optional if needed)
+* #55 bus Airport to Reykjavík : 2280 ISK -- $16.91 X2
+* #57 bus Reykjavík to Akureyri 12.540 ISK (570 x 22 zones) -- $93.01
+* #79 bus from Akureyri to Húsavík  (570 X 6 zones) 3.420 ISK -- $25.37
+* #51 bus from Vík to Reykjavík  (570 x 14 zones) 7.980 ISK -- $59.19
+Total: $211.39
 ## Hostels
 ## Camping
-Reservations are not needed for these campgrounds
+Reservations are not needed for these campgrounds.
+Some campgrounds could be skipped an opt instead for a wild camp. This may be difficult to do in the Landmannalaugar area
 * Reykjahlíð Vogar Campground - 2250 ISK - $16.48
 * Landmannalaugar Campground - 2500 ISK - $18.31
 * Hvanngil Campground 2800 ISK - $20.51
 * Thorsmork Langidalur Campground 2800 ISK - $20.51
 * Skogar Campground 1500 ISK - $10.98
+* Vik Campground 1950 ISK - $14.28
+Total: $101.07
 ## Groceries
 
 ## Food Drops
