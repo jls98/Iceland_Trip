@@ -1,18 +1,20 @@
 # Route and duration
-Roughly 600 km (347 miles)
-3 weeks. add a few extra days for preparation in town
-Northern Terminus: Northernmost lighthouse of Hraunhafnartangi
-Southern Terminus: Southernmost lighthouse, Dyrhólaey.
+- Roughly 600 km (347 miles)
+- 3 weeks (20 days) of hiking.
+- Add a few extra days for preparation in town and for after the hike
+- Assuming 30 days in the country (20 on trail, 10 days off trail)
+- Northern Terminus: Northernmost lighthouse of Hraunhafnartangi
+- Southern Terminus: Southernmost lighthouse, Dyrhólaey.
 
 ## Water Carry areas
-Betweek Askja and Kistufell Hut
+Between Askja and Kistufell Hut is dry, about 1 day of water carry.
 
 ## Highlights
 1. Northernmost lighthouse Hraunhafnartangi
 2. Asbygri Canyon
 3. Dettifoss: highest volume waterfall in Europe
 4. Selfoss
-5. Lake Myvatn and Reykiavik: Myvatn Geothermal Area and Myvatn Nature Baths are here (food drop)
+5. Lake Myvatn and Reykjahlíð: Myvatn Geothermal Area and Myvatn Nature Baths are here (food drop)
 6. Odadahraun lava field
 7. Dyngjufjoll Mountains
 8. Askja Caldera
@@ -26,23 +28,23 @@ Betweek Askja and Kistufell Hut
 16. Southernmost lighthouse Dyrhólaey
 
 # Before leaving
-Register hike on safetravel.is
-Install the 112 Iceland App
+- Register hike on [Safe Travel IS](safetravel.is)
+- Install the 112 Iceland App (For communication in case of an emergency)
 
 ## First Arrival
-1. Get a local sim card. Simmin has the best range
-2. Buy Mál og menning map from Penninn Eymundsson bookstore
-2. Visit the ICE-SAR office in the center of Reykjavik to let them know of your plans and ask for current conditions
-3. Visit grocery story and purchase 3 weeks worth of food.
-4. Organize food into 4 food drops
-5. Visit Reykjavik Excursions and pay for two of the packages to be shipped to Nyidalur and Landmannalaugar
-6. Purchase bus ticket for Reykjavik, Bring the last two of the food drops
-7. Check the weather https://en.vedur.is/
+1. Travel to Capital Reykjavik
+2. Get a local sim card. Simmin has the best range
+3. Buy Mál og menning map from Penninn Eymundsson bookstore
+4. Visit the ICE-SAR office in the center of Reykjavik to let them know of your plans and ask for current conditions
+5. Visit grocery story and purchase 3 weeks worth of food.
+6. Organize food into 1 food drops for 4 days. Food in backpack for 5 days
+7. Visit Reykjavik Excursions and pay for one package to be shipped to Landmannalaugar
+8. Check the weather https://en.vedur.is/
 
 ## Getting to the Northern Terminus
 [Public Straeto Bus Service](https://straeto.is/)
 See [map](https://straeto.is/media/2022/08/str-heildarkort-samgo-CC-88ngur-vagnar.png)
-- #55 public bus from Kefvlavik to Reykavik - 
+- #55 public bus from Kefvlavik to Reykavik - 1.5 hour
 - #57 public bus from Reykiavik to Akureyri - 6 hour
 - #79 public bus trip to Husavik - 1.5 hour
 - Last 90 miles hitchhiking
@@ -60,9 +62,9 @@ http://vefsja.iskort.is/
 Purchase the food drop service from Reykjavik Excursions. This is a 2000 ISK Service which you can drop the box off from the Campsite Hostel (Reykjavik Camping) at 6:30 AM
 Package the food either in a box or bag and label with your name and phone number
 
-1. Reykjahlíð -- Hide somewhere or just buy locally from grocery stores
-2. Dreki hut -- have bus driver take your package. Call the hut and ask them to remove the package from the bus and hold
-3. Nyidalur -- have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold
+1. Reykjahlíð -- Hide somewhere or skip this food drop and just buy locally from grocery stores
+2. Dreki hut -- have bus driver take your package. Call the hut and ask them to remove the package from the bus and hold. Or just skip this food drop and carry through (10 day max carry)
+3. Nyidalur -- have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold. *Skip this drop, carry through 7 days from Dreki to Landmannalagur* 
 4. Landmannalaugar -- have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold
 
 ### Preferred - Alternative Food Drops
@@ -93,12 +95,12 @@ Total: 20 days
 * #51 bus from Vík to Reykjavík  (570 x 14 zones) 7.980 ISK -- $59.19
 * Total: $211.39
 
-## Hostels
-Optional, Camping is a cheaper option which is available in all locations. Reykjavik camping is just $25 a night and includes showers, cooking area etc.
+## Lodging
+### Hostels
+Optional, Camping is a cheaper option which is available in all locations. Reykjavik camping is just $25 a night and includes showers, cooking area etc. Lodging tax at campsites is 300 ISK and 600 ISK for hostels.
 
-## Camping
-Reservations are not needed for these campgrounds.
-Some campgrounds could be skipped an opt instead for a wild camp. This may be difficult to do in the Landmannalaugar area
+### Camping
+Reservations are not needed for these campgrounds. Some campgrounds could be skipped an opt instead for a wild camp. This may be difficult to do in the Landmannalaugar area. There is a 300 ISK lodging tax.
 * Reykjahlíð Vogar Campground - 2250 ISK - $16.48
 * Landmannalaugar Campground - 2500 ISK - $18.31
 * Hvanngil Campground 2800 ISK - $20.51
@@ -106,12 +108,20 @@ Some campgrounds could be skipped an opt instead for a wild camp. This may be di
 * Skogar Campground 1500 ISK - $10.98
 * Vik Campground 1950 ISK - $14.28
 * Reykjavik Campground 3303 ISK - $24.19 (OPTIONAL/Cheap place to stay in the capital for the extra days before and after hike w/ showers laundry etc. This Campground is a stopping point )
-* Total: $101.07
+* SubTotal: $101.07
+* Lodging Tax: 6x300ISK 1800 ISK = $13.19
+* Total $114.26
+ 
+## Food Drops
+* Reykjavik Excursions Baggage Service 2000 ISK - $14.64
+
 ## Groceries
 TODO
 
-## Food Drops
-* Reykjavik Excursions Baggage Service 2000 ISK - $14.64
+## Total
+### Rough Estimate minus the cost of Groceries
+* Dan - $1340.29 + (10 days lodging x $25 + $21.98 tax) = $1612.27
+* Jia - $640.29 + (10 days lodging x $25 + $21.98 tax) = $912.27
 
 # References
 * https://lukaszsupergan.com/crossing-iceland-traverse-east-west-food-supplies-deposits/
