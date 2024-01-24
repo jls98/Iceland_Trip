@@ -1,10 +1,12 @@
 # Route and duration
-roughly 600 km (347 miles)
+Roughly 600 km (347 miles)
 3 weeks. add a few extra days for preparation in town
-Northern Terminus: northernmost lighthouse of Hraunhafnartangi
-Souther Terminus: southernmost lighthouse, Dyrhólaey.
+Northern Terminus: Northernmost lighthouse of Hraunhafnartangi
+Southern Terminus: Southernmost lighthouse, Dyrhólaey.
+
 ## Water Carry areas
 Betweek Askja and Kistufell Hut
+
 ## Highlights
 1. Northernmost lighthouse Hraunhafnartangi
 2. Asbygri Canyon
@@ -15,16 +17,18 @@ Betweek Askja and Kistufell Hut
 7. Dyngjufjoll Mountains
 8. Askja Caldera
 9. Oskjuvatn: Deepest lake in Iceland
-Vatnajokull galcier
-Laugavegur Trail
-Landmannalaugar hot springs
-Skogafoss
-Vik
-Southernmost lighthouse Dyrhólaey
+10. Vatnajokull galcier
+11. Laugavegur Trail
+12. Landmannalaugar hot springs
+13. Skogafoss
+14. Vik
+15. Black Sands Beach
+16. Southernmost lighthouse Dyrhólaey
 
 # Before leaving
 Register hike on safetravel.is
 Install the 112 Iceland App
+
 ## First Arrival
 1. Get a local sim card. Simmin has the best range
 2. Buy Mál og menning map from Penninn Eymundsson bookstore
@@ -32,7 +36,7 @@ Install the 112 Iceland App
 3. Visit grocery story and purchase 3 weeks worth of food.
 4. Organize food into 4 food drops
 5. Visit Reykjavik Excursions and pay for two of the packages to be shipped to Nyidalur and Landmannalaugar
-6. Purchase bus ticket for Reykiavik, Bring the last two of the food drops
+6. Purchase bus ticket for Reykjavik, Bring the last two of the food drops
 7. Check the weather https://en.vedur.is/
 
 ## Getting to the Northern Terminus
@@ -42,25 +46,28 @@ See [map](https://straeto.is/media/2022/08/str-heildarkort-samgo-CC-88ngur-vagna
 - #57 public bus from Reykiavik to Akureyri - 6 hour
 - #79 public bus trip to Husavik - 1.5 hour
 - Last 90 miles hitchhiking
-## Getting from the southern terminus back to Reykiavik
+  
+## Getting from the southern terminus back to Reykjavik
 - #51 Bus from Vik to Reykjavik
-* Navigation
+
+## Navigation
 1:425,000 Reise Know How map
 Road Map: https://vegasja.vegagerdin.is/eng/
 All around map: https://map.is/base/@630811,670553,z6,0
 http://vefsja.iskort.is/
-## Food Drops
-Purchase the food drop service from Reykjavik Excursions
-Backage the food either in a box or bag and label with your name and phone number
 
-1. Reykiavik -- Hide somewhere
+## Food Drops
+Purchase the food drop service from Reykjavik Excursions. This is a 2000 ISK Service which you can drop the box off from the Campsite Hostel (Reykjavik Camping) at 6:30 AM
+Package the food either in a box or bag and label with your name and phone number
+
+1. Reykjahlíð -- Hide somewhere or just buy locally from grocery stores
 2. Dreki hut -- have bus driver take your package. Call the hut and ask them to remove the package from the bus and hold
 3. Nyidalur -- have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold
 4. Landmannalaugar -- have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold
 
-### Alternative Food Drops
+### Preferred - Alternative Food Drops
 1. Myvatn -- 5 day carry from Northern Terminus to Myvatn, resupply in the grocery store in town
-2. Dreki hut -- 3 day carry from Myvatn to Dreki have bus driver take your package. Call the hut and ask them to remove the package from the bus and hold -- https://myvatntours.is/
+2. Dreki hut -- 3 day carry from Myvatn to Dreki have bus driver take your package. Call the hut and ask them to remove the package from the bus and hold -- [Myvatn Tours](https://myvatntours.is/)
 3. Landmannalaugar -- 7 day carry from Dreki to Landannalaugar have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold
 
 # Itinerary
@@ -77,14 +84,18 @@ Total: 20 days
 ### Airfare
 * Round trip from DFW to Reykjavík ~ $1000
 * Round trip from Frankfurt to Reykjavík ~ $300
+
 ### Bus Travel
 * Local bus in Reykjavík: 630 ISK -- $4.67 (Optional if needed)
 * #55 bus Airport to Reykjavík : 2280 ISK -- $16.91 X2
 * #57 bus Reykjavík to Akureyri 12.540 ISK (570 x 22 zones) -- $93.01
 * #79 bus from Akureyri to Húsavík  (570 X 6 zones) 3.420 ISK -- $25.37
 * #51 bus from Vík to Reykjavík  (570 x 14 zones) 7.980 ISK -- $59.19
-Total: $211.39
+* Total: $211.39
+
 ## Hostels
+Optional, Camping is a cheaper option which is available in all locations. Reykjavik camping is just $25 a night and includes showers, cooking area etc.
+
 ## Camping
 Reservations are not needed for these campgrounds.
 Some campgrounds could be skipped an opt instead for a wild camp. This may be difficult to do in the Landmannalaugar area
@@ -94,19 +105,22 @@ Some campgrounds could be skipped an opt instead for a wild camp. This may be di
 * Thorsmork Langidalur Campground 2800 ISK - $20.51
 * Skogar Campground 1500 ISK - $10.98
 * Vik Campground 1950 ISK - $14.28
-Total: $101.07
+* Reykjavik Campground 3303 ISK - $24.19 (OPTIONAL/Cheap place to stay in the capital for the extra days before and after hike w/ showers laundry etc. This Campground is a stopping point )
+* Total: $101.07
 ## Groceries
+TODO
 
 ## Food Drops
-
+* Reykjavik Excursions Baggage Service 2000 ISK - $14.64
 
 # References
 * https://lukaszsupergan.com/crossing-iceland-traverse-east-west-food-supplies-deposits/
 * https://thetrek.co/the-iceland-traverse-north-to-south/
 * https://viajarapie.info/en/trips/iceland-north-to-south/
-
 * http://www.deadbad.com/blog/index.php?thingindex=15&submenu=tripovervie
 * https://www.youtube.com/watch?v=ON3oMFzdlzU
 * https://straeto.is/media/2023/10/prices-single-fare-north-and-northeast-iceland-okt.pdf
 * [Camping in the Landmannalaugar area](https://www.fi.is/en/mountain-huts/terms-and-conditions)
 * [Camping in the Myvatn area](https://www.vogartravelservice.com/camping)
+* https://www.reykjavikcampsite.is/tourdesk-2/
+* https://www.re.is/tour/landmannalaugar-iceland-on-your-own/
