@@ -43,7 +43,7 @@ Between Askja and Kistufell Hut is dry, about 1 day of water carry.
 4. Pay for Luggage Storage and drop off there (OPTIONAL if any, cheaper long term rate on the campground 5800 ISK per week)
 5. Buy Mál og menning map from Penninn Eymundsson bookstore. (OPTIONAL, already have paper map and it may be current)
 6. Visit the ICE-SAR office in the center of Reykjavik to let them know of your plans and ask for current conditions (when it is open M-F 8-4)
-7. Visit grocery story and purchase 3 weeks worth of food.
+7. Visit grocery story and purchase 3 weeks worth of food. Bonus is the cheapest store, its walking distance from the Reykjavik Campground. Ask the store if they have some cardboard boxes that we can use for the food drop
 8. Organize food into 1 food drops for 4 days. Food in backpack for 5 days
 9. Check the [weather](https://en.vedur.is/) and [road conditions](https://www.road.is/)
 
