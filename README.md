@@ -31,6 +31,7 @@ Between Askja and Kistufell Hut is dry, about 1 day of water carry.
 - Register hike on [Safe Travel IS](safetravel.is)
 - Install the 112 Iceland App (For communication in case of an emergency)
 
+
 ## First Arrival
 1. Travel to Capital Reykjavik
 2. Get a local sim card. Simmin has the best range
@@ -57,12 +58,14 @@ See [map](https://straeto.is/media/2022/08/str-heildarkort-samgo-CC-88ngur-vagna
 Road Map: https://vegasja.vegagerdin.is/eng/
 All around map: https://map.is/base/@630811,670553,z6,0
 http://vefsja.iskort.is/
+Bus plan: http://www.publictransport.is/
+Route planner: https://straeto.is/en/route-planner/
 
 ## Food Drops
 Purchase the food drop service from Reykjavik Excursions. This is a 2000 ISK Service which you can drop the box off from the Campsite Hostel (Reykjavik Camping) at 6:30 AM
 Package the food either in a box or bag and label with your name and phone number
 
-1. Reykjahlíð -- Hide somewhere or skip this food drop and just buy locally from grocery stores
+1. Reykjahlíð -- Hide somewhere or skip this food drop and just buy locally from grocery stores (Krambúðin Reykjahlíð, Vínbúðin)
 2. Dreki hut -- have bus driver take your package. Call the hut and ask them to remove the package from the bus and hold. Or just skip this food drop and carry through (10 day max carry)
 3. Nyidalur -- have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold. *Skip this drop, carry through 7 days from Dreki to Landmannalagur* 
 4. Landmannalaugar -- have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold
@@ -95,6 +98,9 @@ Total: 20 days
 * #51 bus from Vík to Reykjavík  (570 x 14 zones) 7.980 ISK -- $59.19
 * Total: $211.39
 
+* different itinerary https://straeto.is/en/route-planner/search/c29283c185cb/0
+
+
 ## Lodging
 ### Hostels
 Optional, Camping is a cheaper option which is available in all locations. Reykjavik camping is just $25 a night and includes showers, cooking area etc. Lodging tax at campsites is 300 ISK and 600 ISK for hostels.
@@ -102,6 +108,7 @@ Optional, Camping is a cheaper option which is available in all locations. Reykj
 ### Camping
 Reservations are not needed for these campgrounds. Some campgrounds could be skipped an opt instead for a wild camp (Vogar and Dreki). This is not advised in the Landmannalaugar area as its protected lands. There is a 300 ISK lodging tax.
 * Reykjahlíð Vogar Campground - 2250 ISK - $16.48
+* Reykjahlíð Camping area Hlíð ferðaþjónusta (prices TODO)
 * Landmannalaugar Campground - 2500 ISK - $18.31
 * Hvanngil Campground 2800 ISK - $20.51
 * Thorsmork Langidalur Campground 2800 ISK - $20.51
@@ -122,7 +129,7 @@ Note: There may be an additional fee from the hut to hold these packages
 TODO
 
 ### Dining
-TODO
+* Reykjahlíð Mylla Restaurant
 
 ## Total
 ### Rough Estimate minus the cost of Groceries
