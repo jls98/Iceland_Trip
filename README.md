@@ -1,5 +1,5 @@
 
-[<img src="iceland_map_annotated.png">](https://www.google.com/maps/d/edit?mid=1Q_v-xD_y1Sw2IpH1A3gylaJ1LSA--Nc&usp=sharing)
+[<img src="iceland_map_annotated.PNG">](https://www.google.com/maps/d/edit?mid=1Q_v-xD_y1Sw2IpH1A3gylaJ1LSA--Nc&usp=sharing)
 
 # Route and duration
 - Roughly 600 km (347 miles)
