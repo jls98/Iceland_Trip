@@ -1,3 +1,6 @@
+
+[<img src="iceland_map_annotated.PNG">](https://www.google.com/maps/d/edit?mid=1Q_v-xD_y1Sw2IpH1A3gylaJ1LSA--Nc&usp=sharing)
+
 # Route and duration
 - Roughly 600 km (347 miles)
 - 3 weeks (20 days) of hiking.
@@ -30,17 +33,19 @@ Between Askja and Kistufell Hut is dry, about 1 day of water carry.
 # Before leaving
 - Register hike on [Safe Travel IS](safetravel.is)
 - Install the 112 Iceland App (For communication in case of an emergency)
+- Get an eSIM Cheaper option from [Nomad](https://www.getnomad.app/iceland-eSIM?rfsn=7432846.e5d9a4) no more than 30 days in advance. Activates on first use
 
 
 ## First Arrival
-1. Travel to Capital Reykjavik
-2. Get a local sim card. Simmin has the best range
-3. Buy Mál og menning map from Penninn Eymundsson bookstore
-4. Visit the ICE-SAR office in the center of Reykjavik to let them know of your plans and ask for current conditions
-5. Visit grocery story and purchase 3 weeks worth of food.
-6. Organize food into 1 food drops for 4 days. Food in backpack for 5 days
-7. Visit Reykjavik Excursions and pay for one package to be shipped to Landmannalaugar
-8. Check the [weather](https://en.vedur.is/) and [road conditions](https://www.road.is/)
+1. Travel to Capital Reykjavik BSI Bus Stop
+2. Visit Reykjavik Excursions and pay for one package to be shipped to Landmannalaugar
+3. Travel to Reykjavik Campground and setup camp
+4. Pay for Luggage Storage and drop off there (OPTIONAL if any, cheaper long term rate on the campground 5800 ISK per week)
+5. Buy Mál og menning map from Penninn Eymundsson bookstore. (OPTIONAL, already have paper map and it may be current)
+6. Visit the ICE-SAR office in the center of Reykjavik to let them know of your plans and ask for current conditions (when it is open M-F 8-4)
+7. Visit grocery story and purchase 3 weeks worth of food.
+8. Organize food into 1 food drops for 4 days. Food in backpack for 5 days
+9. Check the [weather](https://en.vedur.is/) and [road conditions](https://www.road.is/)
 
 ## Getting to the Northern Terminus
 [Public Straeto Bus Service](https://straeto.is/)
@@ -73,14 +78,30 @@ Package the food either in a box or bag and label with your name and phone numbe
 ### Preferred - Alternative Food Drops
 1. Myvatn -- 5 day carry from Northern Terminus to Myvatn, resupply in the grocery store in town
 2. Dreki hut -- 3 day carry from Myvatn to Dreki have bus driver take your package. Call the hut and ask them to remove the package from the bus and hold -- [Myvatn Tours](https://myvatntours.is/)
-3. Landmannalaugar -- 7 day carry from Dreki to Landannalaugar have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold
+3. Landmannalaugar -- 7 day carry from Dreki to Landannalaugar have bus driver take your package to the hut. Call the hut and ask them to remove the package from the bus and hold -- [Reyjkavik Excursions](https://www.re.is/highland-bus/)
 
 # Itinerary
-1. Section 1: Hraunhafnartangi to Asbyrgi (2.5 days)
-2. Section 2: Asbyrgi to Lake Myvatn (2.5 days)
-3. Section 3: Myvatn to Dreki (Askja)(3 days)
-4. Section 4: Dreki to Landmannalaugar (7 days)
-5. Section 5: Landmannalaugar to Dyrhólaey (4 days)
+- Section 1: Hraunhafnartangi to Asbyrgi (2.5 days)
+  - Northern Lighthouse to Asbyrgi Canyon.
+  - This is remote and has a road walk
+  - Asbyrgi campground is available and paid for, or pass by for a wild camp
+  - N1 Gas station near Asbygri, can get some small resupply and hot food there. May be expensive
+  - No huts
+- Section 2: Asbyrgi to Lake Myvatn (2.5 days)
+  - Passes by Dettifoss and Selfoss waterfalls.
+  - No huts
+- Section 3: Myvatn to Dreki (Askja)(3 days)
+  - Passes by 2 huts [Botni](https://www.fi.is/en/mountain-huts/all-mountain-huts/botni) and [Dyngjufell](https://www.fi.is/en/mountain-huts/all-mountain-huts/dyngjufell)
+  - These are primitive huts that can just be used for shelter and cooking
+  - Follows part of the [Askja Trail](https://www.fi.is/en/hiking-trails/trails/oskjuvegur)
+- Section 4: Dreki to Landmannalaugar (7 days)
+  - This is a remote section, has a long water carry
+  - Follows F-roads for some of it
+  - Passes by 2 huts, [Dreki](https://www.fi.is/en/mountain-huts/all-mountain-huts/dreki) at the start and [Nýidalur](https://www.fi.is/en/mountain-huts/all-mountain-huts/nyidalur)
+  - Can camp at these huts, but it will cost money. Can pass the huts and do a wild camp
+- Section 5: Landmannalaugar to Dyrhólaey (4 days)
+  - Follows 2 trails, the [Laugavegur](https://www.fi.is/en/hiking-trails/trails/laugavegur) and [Fimmvörðuháls](https://www.fi.is/en/hiking-trails/trails/fimmvorduhals) trails.
+  - This will be the protected area where wild camping is not allowed, must stay at developed campgrounds. Toilets and showers are available at these grounds. Electricity is not available.
 
 Total: 20 days
 
@@ -102,6 +123,7 @@ Total: 20 days
 
 
 ## Lodging
+
 ### Hostels
 Optional, Camping is a cheaper option which is available in all locations. Reykjavik camping is just $25 a night and includes showers, cooking area etc. Lodging tax at campsites is 300 ISK and 600 ISK for hostels.
 
@@ -114,7 +136,7 @@ Reservations are not needed for these campgrounds. Some campgrounds could be ski
 * Thorsmork Langidalur Campground 2800 ISK - $20.51
 * Skogar Campground 1500 ISK - $10.98
 * Vik Campground 1950 ISK - $14.28
-* Reykjavik Campground 3303 ISK - $24.19 (OPTIONAL/Cheap place to stay in the capital for the extra days before and after hike w/ showers laundry etc. This Campground is a stopping point )
+* Reykjavik Campground 3303 ISK - $24.19 (OPTIONAL/Cheap place to stay in the capital for the extra days before and after hike w/ showers laundry etc. )
 * SubTotal: $101.07
 * Lodging Tax: 6x300ISK 1800 ISK = $13.19
 * Total $114.26
@@ -130,6 +152,12 @@ TODO
 
 ### Dining
 * Reykjahlíð Mylla Restaurant
+
+## Misc
+### Luggage Storage
+* Reyjkavik Campground has a discounted long term rate 5800 ISK per week x4 weeks 23200 ISK =  $170.91
+### SIM
+* eSIM roughly $12 from Nomad for data only
 
 ## Total
 ### Rough Estimate minus the cost of Groceries
