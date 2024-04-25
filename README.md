@@ -108,8 +108,8 @@ Total: 20 days
 # Costs
 ## Transport
 ### Airfare
-* Round trip from DFW to Reykjavík ~ $1000
-* Round trip from Frankfurt to Reykjavík ~ $400
+* Round trip from DFW to Reykjavík ~ $570
+* Round trip from Frankfurt to Reykjavík ~ $365
 
 ### Bus Travel
 * Local bus in Reykjavík: 630 ISK -- $4.67 (Optional if needed)
@@ -143,8 +143,8 @@ Reservations are not needed for these campgrounds. Some campgrounds could be ski
 
 ## Food
 ### Food Drops
-Note: There may be an additional fee from the hut to hold these packages
-* Reykjavik Excursions Baggage Service 2000 ISK - $14.64
+Note: There may be an additional fee from the hut to hold these packages 
+* Reykjavik Excursions Baggage Service 2000 ISK - $14.64 (email to fjallafangehf@gmail.com, size 55x40x20 cm, maximum weight: 10 kg)
 * Myvatn Tours -- TODO Contact the company to see if a box can be sent from Reykjahlíð to Dreki hut
 
 ### Groceries
@@ -176,3 +176,4 @@ TODO
 * https://www.reykjavikcampsite.is/tourdesk-2/
 * https://www.re.is/tour/landmannalaugar-iceland-on-your-own/
 * [FI Mountain Huts](https://www.fi.is/en/mountain-huts/map-of-mountain-huts)
+* [Reykjavik Excursions Baggage Service FAQ] https://www.re.is/faq/
