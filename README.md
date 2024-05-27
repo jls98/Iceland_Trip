@@ -29,6 +29,7 @@ Between Askja and Kistufell Hut is dry, about 1 day of water carry.
 14. Vik
 15. Black Sands Beach
 16. Southernmost lighthouse Dyrhólaey
+17. [Goldfish pond](https://guidetoiceland.is/travel-iceland/drive/geothermal-goldfish-pond-1) at Husavík 
 
 # Before leaving
 - Register hike on [Safe Travel IS](safetravel.is)
